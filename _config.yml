@@ -1,5 +1,8 @@
 title: Git a Site
 description: How to create a complete website
-author: Pablo Rodríguez
+author:
+  name: Pablo Rodríguez
+  webiste: http://www.ousia.tk
 theme: jekyll-theme-modernist
 show_downloads: false
+show_repo: false
